@@ -2,7 +2,7 @@ TASK DATE: 18.10.2017
 
 TASK SHORT DESCRIPTION: 1150 ('use my profile address' bug)
 
-GITHUB REPOSITORY CODE: hotfix/task-1150
+GITHUB REPOSITORY CODE: hotfix/task-1150-use-my-profile-address
 
 ORIGINAL WORK: https://github.com/BusinessBecause/network-site/tree/hotfix/task-1150
 
