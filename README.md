@@ -4,7 +4,7 @@ TASK SHORT DESCRIPTION: 1150 ('use my profile address' bug)
 
 GITHUB REPOSITORY CODE: hotfix/task-1150-use-my-profile-address
 
-ORIGINAL WORK: https://github.com/BusinessBecause/network-site/tree/hotfix/task-1150-use-my-profile-address
+ORIGINAL WORK:hotfix/task-1150-use-my-profile-address
 
 CHANGES AND ADDED CODES
   - system didn't give address details to the imput fields
